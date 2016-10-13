@@ -3,12 +3,8 @@ fdgfdfff
 fdzgfzdgfd
 123123
 
-888
-<<<<<<< HEAD
-999
-=======
-666
->>>>>>> gg
+555
+777
 
 
 gdghfjgjj
